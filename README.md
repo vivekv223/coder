@@ -8,3 +8,6 @@ usa
 chandigarh is the best
 chandigarh
 uk
+russia
+china
+canada
