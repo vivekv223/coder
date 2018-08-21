@@ -8,7 +8,7 @@ usa
 chandigarh is the best
 chandigarh
 uk
-bhopal
-indore
+dore
 mumbai
 ranchi
+
