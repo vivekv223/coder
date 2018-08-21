@@ -8,3 +8,8 @@ usa
 chandigarh is the best
 chandigarh
 uk
+delhi
+chandigarh
+kalka
+jaipur
+jodhpur
